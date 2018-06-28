@@ -1,5 +1,16 @@
-<TextView
+<LinearLayout
+  android:orientation="Horizontal"
+@_ _ Could be vertical too
+  android:layout_width="wrap-content"
+  android:layout_height="wrap_content">
+  
+  <TextView
   android:text="Psalms 1:1-6"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:textsize="60sp" />
+<TextView
+  android:text="Blessed is the man who does not walk in the council of the wicked, N"
   android:layout_width="wrap_content"
   android:layout_height="wrap_content"
   android:textsize="60sp" />
