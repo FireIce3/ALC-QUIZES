@@ -1,2 +1,1 @@
-# ALC-QUIZES
-LESSON 1-6 QUIZES From lesson 2
+Thanks to Udacity was able to learn a bit of Android and here are my assignments on each Section Learned as ki also learn more on Github
